@@ -62,6 +62,11 @@ Scripts: The Jupyter notebooks containing the coding for the analysis.
 # Resource
 https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-datase
 
+# Visualizations
+
+All visualizations were created in Tableau Public and may be viewed in the attached link
+https://public.tableau.com/app/profile/surekha.juttiga/viz/S_BillionairesdataStoryboard/Story1?publish=yes
+
 
 
 
