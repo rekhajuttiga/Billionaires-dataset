@@ -49,3 +49,21 @@ The data was analyzed using Python and the following libraries:
  
  warnings
 
+ # Folders
+
+ The project files are divided between the following folders:
+
+Project Management: Project Brief & Data Dictionary.
+
+Data: Separated into two subfolders Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively.
+
+Scripts: The Jupyter notebooks containing the coding for the analysis.
+
+# Resource
+https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-datase
+
+
+
+
+
+
